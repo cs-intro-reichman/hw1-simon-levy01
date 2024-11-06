@@ -3,7 +3,7 @@
 public class Demo0{
 	public static void main(String[] args) {
 		// Declares an int variable, and sets it to 1
-        int i = 5;
+        int i = 6;
         // Complete the program's code here:
         System.out.println(i);
     }
